@@ -2,9 +2,7 @@
 
 Disque, an in-memory, distributed job queue
 ===
-(原仓库，注释src/下的文件，供参考。)
-===
-
+(原仓库，注释src下的文件夹，供参考)
 Disque is an ongoing experiment to build a distributed, in-memory, message
 broker.
 Its goal is to capture the essence of the "Redis as a jobs queue" use case,
