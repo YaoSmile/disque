@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/antirez/disque.svg)](https://travis-ci.org/antirez/disque)
 
-Disque, an in-memory, distributed job queue
+Disque, an in-memory, distributed job queue(原仓库，注释src/下的文件，供参考。)
 ===
 
 Disque is an ongoing experiment to build a distributed, in-memory, message
